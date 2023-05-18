@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "soundcloud": "^3.3.2",
+    "soundcloud-node": "^0.0.10",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
